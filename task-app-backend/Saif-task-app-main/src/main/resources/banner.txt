@@ -1,0 +1,16 @@
+████████╗ █████╗ ███████╗██╗  ██╗
+╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+   ██║   ███████║███████╗█████╔╝
+   ██║   ██╔══██║╚════██║██╔═██╗
+   ██║   ██║  ██║███████║██║  ██╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+         TASK MANAGEMENT BACKEND
+     Spring Boot • REST API • PostgreSQL
+
+--------------------------------------------
+ Application : Task Management System
+ Author      : Saif Ali
+ Version     : 1.0.0
+ Environment : ${spring.profiles.active}
+--------------------------------------------
